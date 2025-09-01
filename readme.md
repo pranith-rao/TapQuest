@@ -1,6 +1,8 @@
 # TapQuest
 TapQuest is an interactive Android quiz app designed to make learning fun and accessible, especially for kids with dyslexia. It combines visual cues, audio guidance, and interactive questions to help learners process information more effectively. By engaging multiple senses—seeing, hearing, and interacting, TapQuest reduces reading barriers, improves focus, and builds confidence, making it an educational tool that is both entertaining and supportive for dyslexic learners.
 
+### APK Link: https://tinyurl.com/TapQuest
+
 ## Getting Started
 1. Clone this repo and open the folder in Android Studio
 2. On the right top bar click on Sync Project with gradle files (Elephant symbol)
