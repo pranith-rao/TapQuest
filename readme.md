@@ -4,11 +4,11 @@ TapQuest is an interactive Android quiz app designed to make learning fun and ac
 [📦 Download APK](https://tinyurl.com/TapQuest) | [🎬 Watch Demo](https://tinyurl.com/TapQuestDemo)
 
 ## Getting Started
-1. Clone this repo and open the folder in Android Studio
-2. On the right top bar click on Sync Project with gradle files (Elephant symbol)
-3. Once its completed, click on the Assemble app Run configuration (Hammer symbol)
-4. Once that's also done, click on the Run app button and the app will open in the emulator
-5. If you want the app's APK on the build menu click on Generate app bundles or APKs -> Generate APKs and the APK will be present inside `TapQuest/app/build/outputs/apk/debug` folder named as app-debug.apk
+- Clone this repo and open the folder in Android Studio
+- On the right top bar click on Sync Project with gradle files (Elephant symbol)
+- Once its completed, click on the Assemble app Run configuration (Hammer symbol)
+- Once that's also done, click on the Run app button and the app will open in the emulator
+- If you want the app's APK on the build menu click on Generate app bundles or APKs -> Generate APKs and the APK will be present inside `TapQuest/app/build/outputs/apk/debug` folder named as app-debug.apk
 
 ## Key Features:
 - Audio support for themes and questions to aid dyslexic learners.
